@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Salvo</h1>
 <h3 align="center">A passionate frontend developer student from Italy</h3>
 
-<h3 align="left">See my LinkedIn</h3>
+<h3 align="left">See my LinkedIn:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/salvatore-bisconti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salvatore-bisconti" height="30" width="40" /></a>
 </p>

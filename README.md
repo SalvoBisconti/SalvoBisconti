@@ -1,5 +1,6 @@
 ## 💫 About Me:
-Hi, i'm Salvo, I’m currently learning react in a coding bootcamp. I’ve always been passionate about technology since i was child.
+Hi, i'm Salvo, I’m a jr front-end developer specialized in React 
+and in the Next framework . I’ve always been passionate about technology since i was child.
 Why do I like to program? I think creating something from scratch is one of the greatest satisfactions that life can give you.
 Michelangelo had his brush, I have my computer 😁 
 

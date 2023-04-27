@@ -28,7 +28,7 @@ Michelangelo had his brush, I have my computer 😁
 # 📊 GitHub Stats:
  <div align="center">
   <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api?username=SalvoBisconti&theme=darcula&hide_border=false&include_all_commits=false&count_private=false" style="vertical-align: top;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalvoBisconti&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api?username=SalvoBisconti&theme=darcula&hide_border=false&include_all_commits=false&count_private=false" style="vertical-align: width="400px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalvoBisconti&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="355px"/>
   </div>
 </div>

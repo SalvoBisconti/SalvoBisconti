@@ -1,3 +1,7 @@
+<div align="center" > 
+ <img src="/coding.gif" alt="image" >
+ </div>
+
 ## 💫 About Me:
 Hi, i'm Salvo, I’m a jr front-end developer specialized in React 
 and in the Next framework . I’ve always been passionate about technology since i was child.
@@ -22,5 +26,9 @@ Michelangelo had his brush, I have my computer 😁
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SalvoBisconti&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SalvoBisconti&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ <div align="center">
+  <div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api?username=SalvoBisconti&theme=darcula&hide_border=false&include_all_commits=false&count_private=false" style="vertical-align: top;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalvoBisconti&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  </div>
+</div>

@@ -1,5 +1,5 @@
 <div align="center" > 
- <img src="/coding.gif" alt="image" >
+ <img src="/coding.gif" alt="image" width="45%" >
  </div>
 
 ## 💫 About Me:

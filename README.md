@@ -3,8 +3,8 @@
  </div>
 
 ## 💫 About Me:
-Hi, i'm Salvo, I’m a jr front-end developer specialized in React 
-and in the Next framework . I’ve always been passionate about technology since i was child.
+Hi, i'm Salvo, I’m a jr full-stack developer specialized in React 
+and Java Spring Boot . I’ve always been passionate about technology since i was child.
 Why do I like to program? I think creating something from scratch is one of the greatest satisfactions that life can give you.
 Michelangelo had his brush, I have my computer 😁 
 
